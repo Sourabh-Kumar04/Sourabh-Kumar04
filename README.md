@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Second-year Computer Science student at the University of Delhi.
+- 🎓 Third-year Computer Science student at the University of Delhi.
 - 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 - 🛠️ Skilled in **Python**, **PyTorch**, **C++**, **Data Structures**, and **Algorithms**.
 <!-- - 🌱 Currently exploring **Generative AI**, **CUDA Python**, and **Cloud Technologies** (Google Cloud, Azure).
